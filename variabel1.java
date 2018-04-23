@@ -5,7 +5,7 @@ public class variabel1 {
 		String nama ="rudi";
 		boolean izin = true;
 		
-		System.out.println("Nama Saya Adalah " + nama);
+		System.out.println("Ini adalah angka " + angka);
 	}
 
 }
